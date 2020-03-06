@@ -1,0 +1,21 @@
+{
+  "name": "automation",
+  "version": "1.0.0",
+  "description": "Busbooking Automations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gulp-dotnet-cli": "^1.1.0",
+    "gulp-shell": "^0.8.0",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sequence": "^1.0.0",
+    "gulp-zip": "^5.0.1"
+  }
+}
